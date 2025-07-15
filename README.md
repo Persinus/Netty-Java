@@ -107,7 +107,6 @@ Chào mừng bạn đến với lộ trình 100 bài học chi tiết để tự
 
 - 📦 Thư viện chính: [Netty](https://netty.io/)
 - 🌍 Triển khai online: [Ngrok](https://ngrok.com/), [Railway](https://railway.app/), [Oracle Cloud](https://www.oracle.com/cloud/free/)
-- 🎓 Học Rust/Bevy: *bonus nếu bạn định chuyển backend sang Rust sau này*
 
 ---
 
