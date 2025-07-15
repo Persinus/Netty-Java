@@ -133,6 +133,6 @@ Nếu bạn cần:
 
 ---
 
-🧠 Bạn muốn mình chia từng bài thành folder riêng, hoặc upload repo mẫu theo từng chặng không?
+
 
 ---
